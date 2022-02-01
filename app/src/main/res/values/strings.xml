@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FileManager</string>
+
+    <!-- Main Activity -->
+    <string name="search">Search</string>
+    <string name="cannot_open_file">Cannot open the file</string>
+
+    <!-- Alert Dialog -->
+    <string name="grant_permission">Grant Permission</string>
+    <string name="provide_permission_text">To use this application you need to provide this permission</string>
+    <string name="go_to_settings">Go to settings</string>
+    <string name="exit">Exit</string>
+    <string name="all_files_permission_dialog_text">To get the full user experience of this app you may also provide access to all files</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+</resources>
